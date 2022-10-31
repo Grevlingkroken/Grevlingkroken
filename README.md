@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grevlingkroken
 - 👀 I’m interested in Kubernetes, Docker and constantly tinkering with tech stuff.
-- 🌱 I’m currently trying to get the grip on Kubernetes
+- 🌱 I’m currently trying to get the grip on Kubernetes, HAProxoy and all the stuff that make k8s work
 
 
 <!---
